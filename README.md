@@ -1,8 +1,8 @@
 # first_app
 
-A new Flutter project.
+A new Flutter UI project.
 
-# install extension in visual studio code
+## install extension in visual studio code
 ```
 -Flutter
 -Material Icon Theme
